@@ -53,8 +53,6 @@
 
 [Answer](HOW-TO-HELP.md)
 
-```
-
 ## TODO
 - [ ] Set up a website
 - [v] Add docs to website
