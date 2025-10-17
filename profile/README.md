@@ -2,6 +2,9 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE.md)
 [![Build](https://github.com/Warp-net/warpnet/actions/workflows/build.yaml/badge.svg)](https://github.com/Warp-net/warpnet/actions/workflows/build.yaml)
 [![Telegram Chat](https://img.shields.io/badge/chat-telegram-blue.svg)](https://t.me/warpnetdev)
+<a href="https://snapcraft.io/warpnet">
+<img alt="warpnet" src="https://snapcraft.io/warpnet/badge.svg" />
+</a>
 <br />
 <div align="center">
   <a href="https://github.com/Warp-net/warpnet">
