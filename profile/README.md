@@ -31,7 +31,7 @@
     <li><a href="#License">License</a></li>
 </ol>
 
-![Screenshot](docs/warpscreen.jpg)
+![Screenshot](../docs/warpscreen.jpg)
 
 ## General Principles of the Warp Network
 
